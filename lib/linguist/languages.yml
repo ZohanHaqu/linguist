@@ -8836,6 +8836,25 @@ wisp:
   codemirror_mode: clojure
   codemirror_mime_type: text/x-clojure
   color: "#7582D1"
+  extensions:vCard:
+  type: data
+  color: "#ee2647"
+  extensions:
+  - ".vcf"
+  tm_scope: source.vcard
+  aliases:
+  - virtual contact file
+  - electronic business card
+  ace_mode: properties
+  codemirror_mode: properties
+  codemirror_mime_type: text/x-properties
+  language_id: 851476558
+wisp:
+  type: programming
+  ace_mode: clojure
+  codemirror_mode: clojure
+  codemirror_mime_type: text/x-clojure
+  color: "#7582D1"
   extensions:
   - ".wisp"
   tm_scope: source.clojure
@@ -8854,3 +8873,15 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+orchid:
+  type: programming
+  color: "#DA70D6"
+  aliases:
+  - advpl
+  - clipper
+  - foxpro
+  extensions:
+  - ".orc"
+  tm_scope: source.harbour
+  ace_mode: text
+  language_id: 422
