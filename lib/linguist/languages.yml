@@ -8873,15 +8873,16 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
-orchid:
+Prog2Graph Zohan Haque:
   type: programming
-  color: "#DA70D6"
+  color: "#808080"
   aliases:
   - advpl
   - clipper
   - foxpro
   extensions:
-  - ".orc"
+  - ".ptg"
   tm_scope: source.harbour
   ace_mode: text
   language_id: 422
+
